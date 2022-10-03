@@ -1,2 +1,2 @@
 # madoka
-Learning how to properly use git and GitHub...
+I'm steadily learning how to use GitHub.
